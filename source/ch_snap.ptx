@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This frontmatter division will contain all content before the -->
+<!-- first chapter.  Fill in and comment/uncomment to see how this -->
+<!-- works.                                                        -->
+
+<chapter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="ch_snap">
+    <title>An Introduction to Snap!</title>
+    <introduction>
+        <p>
+This initial module provides an orientation to the Snap! programming language. Snap! was developed at
+the University of California, Berkeley, and is used in computer science (CS) for non-CS majors at that
+university. Because of its widespread use, a user community has developed around this programming
+language. The capabilities of this language make it well-suited to explorations in art and music.
+        </p>
+    </introduction>
+    <section><title>Securing a Snap! Account</title></section>
+    <section><title>The Snap! Workspace</title></section>
+    <section><title>Snap! Menus</title></section>
+    <section xml:id="demo">
+        <title>The Code Block Palette</title>
+        <p>
+Scripts are created in Snap! by snapping blocks of code together (such as the Move 10 Steps code
+block in the illustration). The types of code blocks available are displayed in a Code Block Palette at
+the top left-hand side of the screen. For example, the Motion code blocks are currently highlighted in
+the palette below. Other categories of code blocks include Looks, Sound, Pen, Control, Sensing,
+Operators, and Variables. Each category is a different color (e.g.. Motion code blocks are blue). Click
+on the different categories (Motion, Looks, etc.) to access the code blocks associated with that
+category.
+        </p>
+        <figure>
+            <caption>The Snap! code block.</caption>
+            <image source="snap.png" width="50%">
+                <description>This should be better written for accessibility...</description>
+            </image>
+        </figure>
+        <p>
+The Motion code blocks direct the movement of sprites (actors that can move about the stage on the
+right-hand side of the screen.) The Looks code blocks control the appearance of sprites. The Sound
+code blocks are used to play sounds. The Pen code blocks control the color and thickness of the
+turtle’s pen. The Control code blocks provide control structures such as the Repeat command. The
+Sensing code blocks are used to sense the status of Snap! objects and monitor external inputs such as
+the keyboard and the microphone. The Operators code blocks provide mathematical and logical
+functions. The Variables palette is used to create and modify variables. 
+        </p>
+        <exploration>
+            <title>The Code Block Pallete</title>
+            <p>
+Click on each of the categories in the Code Block Palette to get a sense of the types of
+commands that are found under each category.
+            </p>
+        </exploration>
+    </section>
+</chapter>

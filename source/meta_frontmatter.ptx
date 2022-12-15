@@ -60,13 +60,5 @@
     </p>
   </preface>
 
-  <!-- You can have more than one preface. -->
-  <preface>
-    <title>Not just that..</title>
-    <p>
-      I still have more to say!
-    </p>
-  </preface>
-
 </frontmatter>
 
