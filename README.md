@@ -1,2 +1,3 @@
-# creating-art-animations-and-music
-Proof of concept
+# My Great Book
+
+Visit <https://pretextbook.org/documentation.html> to learn more.
