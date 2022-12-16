@@ -48,6 +48,13 @@ functions. The Variables palette is used to create and modify variables.
 Click on each of the categories in the Code Block Palette to get a sense of the types of
 commands that are found under each category.
             </p>
+            <figure>
+                <interactive xml:id="interactive-snap" 
+                    iframe="https://snap.berkeley.edu/snap/snap.html" 
+                    preview="snap-demo.png" 
+                    width="95%" aspect="15:10" />
+                <caption>Interactive Snap applet</caption>
+            </figure>
         </exploration>
     </section>
 </chapter>
